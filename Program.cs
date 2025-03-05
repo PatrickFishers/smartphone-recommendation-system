@@ -19,6 +19,7 @@ public class SmartphonePrediction
     public string PredictedDeviceName;
 }
 
+// This is a program class
 class Program
 {
     static void Main(string[] args)
