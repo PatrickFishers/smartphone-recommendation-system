@@ -14,11 +14,12 @@ public class SmartphoneData
 
 public class SmartphonePrediction
 {
-    // This is where the name of the device that gets predicted gets stored
+    // This is where the name of the device that gets predicted gets storedd
     [ColumnName("PredictedLabel")]
     public string PredictedDeviceName;
 }
 
+// This is a program class
 class Program
 {
     static void Main(string[] args)
@@ -57,6 +58,8 @@ class Program
         // device more than once
         var history = new Dictionary<string, HashSet<string>>(); 
 
+        // This is a while loop that runs while true
+        // another comment
         while (true)
         {
             // This will validate the user's input for the operating system
