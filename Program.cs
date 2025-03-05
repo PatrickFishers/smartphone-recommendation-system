@@ -58,6 +58,7 @@ class Program
         var history = new Dictionary<string, HashSet<string>>(); 
 
         // This is a while loop that runs while true
+        // another comment
         while (true)
         {
             // This will validate the user's input for the operating system
