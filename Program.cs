@@ -57,6 +57,7 @@ class Program
         // device more than once
         var history = new Dictionary<string, HashSet<string>>(); 
 
+        // This is a while loop that runs while true
         while (true)
         {
             // This will validate the user's input for the operating system
