@@ -1188,19 +1188,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Patrick\\.nuget\\packages\\": {}
+    "C:\\Users\\Patrick\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Patrick\\OneDrive - Anglia Ruskin University\\Final Project\\SmartphoneRecommendationSystem\\SmartphoneRecommendationSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Patrick\\Documents\\Projects\\PerfectingSmartphoneRecommender\\SmartphoneRecommendationSystem.csproj",
       "projectName": "SmartphoneRecommendationSystem",
-      "projectPath": "C:\\Users\\Patrick\\OneDrive - Anglia Ruskin University\\Final Project\\SmartphoneRecommendationSystem\\SmartphoneRecommendationSystem.csproj",
+      "projectPath": "C:\\Users\\Patrick\\Documents\\Projects\\PerfectingSmartphoneRecommender\\SmartphoneRecommendationSystem.csproj",
       "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Patrick\\OneDrive - Anglia Ruskin University\\Final Project\\SmartphoneRecommendationSystem\\obj\\",
+      "outputPath": "C:\\Users\\Patrick\\Documents\\Projects\\PerfectingSmartphoneRecommender\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Patrick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1254,7 +1259,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Paz9PwqGWA3kdMi+u23bdQ7lU0X8fQE66YqYDeNOEJMEFh9w0ClnCda4N5av0BP113sOQaGo0XkgBsC+YnDeqQ==",
+  "dgSpecHash": "awRKvD9lEAqPSbVbzsMIq4VKsVNGEy56MdNWRlx4w2x5n33MI8tGI38/zYeunz23DTSendSRMMmASs5D4gqj1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Patrick\\OneDrive - Anglia Ruskin University\\Final Project\\SmartphoneRecommendationSystem\\SmartphoneRecommendationSystem.csproj",
+  "projectFilePath": "C:\\Users\\Patrick\\Documents\\Projects\\PerfectingSmartphoneRecommender\\SmartphoneRecommendationSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Patrick\\.nuget\\packages\\lightgbm\\2.3.1\\lightgbm.2.3.1.nupkg.sha512",
     "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.ml\\2.0.1\\microsoft.ml.2.0.1.nupkg.sha512",
