@@ -14,7 +14,7 @@ public class SmartphoneData
 
 public class SmartphonePrediction
 {
-    // This is where the name of the device that gets predicted gets stored
+    // This is where the name of the device that gets predicted gets storedd
     [ColumnName("PredictedLabel")]
     public string PredictedDeviceName;
 }
