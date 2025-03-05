@@ -82,7 +82,8 @@ C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\ne
 C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\netcoreapp3.1\SmartphoneRecommendationSystem.AssemblyInfoInputs.cache
 C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\netcoreapp3.1\SmartphoneRecommendationSystem.AssemblyInfo.cs
 C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\netcoreapp3.1\SmartphoneRecommendationSystem.csproj.CoreCompileInputs.cache
-C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\netcoreapp3.1\SmartphoneRecommendationSystem.csproj.CopyComplete
 C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\netcoreapp3.1\SmartphoneRecommendationSystem.dll
 C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\netcoreapp3.1\SmartphoneRecommendationSystem.pdb
 C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\netcoreapp3.1\SmartphoneRecommendationSystem.genruntimeconfig.cache
+C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\netcoreapp3.1\SmartphoneRecommendationSystem.sourcelink.json
+C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\obj\Debug\netcoreapp3.1\Smartpho.5BDD574D.Up2Date
