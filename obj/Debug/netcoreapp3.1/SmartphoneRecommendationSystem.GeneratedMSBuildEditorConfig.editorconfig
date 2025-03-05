@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = SmartphoneRecommendationSystem
-build_property.ProjectDir = C:\Users\Patrick\OneDrive - Anglia Ruskin University\Final Project\SmartphoneRecommendationSystem\
+build_property.ProjectDir = C:\Users\Patrick\Documents\Projects\PerfectingSmartphoneRecommender\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
